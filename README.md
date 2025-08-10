@@ -1,7 +1,7 @@
 # 🗝️ Vault Hunters Official Modpack (3rd Edition)
 
-Welcome to the **Vault Hunters Official Modpack (3rd Edition)**!  
-This guide will help you install the pack via the CurseForge launcher in just a few steps.
+> ⚠ **Disclaimer:** I do **not** own or maintain the Vault Hunters modpack.  
+> This is a **personal packaged version** of the *[Vault Hunters Official Modpack (3rd Edition)](https://www.curseforge.com/minecraft/modpacks/vault-hunters-1-18-2)* from CurseForge, provided here for easy installation with our server.
 
 ---
 
